@@ -8,8 +8,8 @@ PI = np.pi
 if __name__ == "__main__":
     vertices_df = pd.DataFrame(columns=['x','y','z']) 
 
-    sectorCount = 4 
-    stackCount = 4        
+    sectorCount = 18
+    stackCount = 18
     radius = 0.5 
 
     # float x, y, z, xy;                              // vertex position
